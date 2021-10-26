@@ -14,7 +14,7 @@
 
 --- -->
 
-## 📝 Table of Contents
+<!--## 📝 Table of Contents
 
 - [Future Scope](#future_scope)
 - [Getting Started](#getting_started)
@@ -72,4 +72,4 @@
 
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
- -->
+--- -->
