@@ -20,7 +20,7 @@
 - [Getting Started](#getting_started)
 - [Technology Stack](#tech_stack)
 - [Screenshots](#screenshots)
-- [Authors](#authors)
+- [Author](#authors)
 
 
 
@@ -40,6 +40,7 @@
 2)CSS </br>
 3)Javascript </br>
 4)SQL </br>
+5)PHP </br>
 
 
 
