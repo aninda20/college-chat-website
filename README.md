@@ -32,6 +32,7 @@
  🏁 Getting Started <a name = "getting_started"></a>
 
 - "git clone https://github.com/aninda20/college-chat-website"
+- You can run it in your local envireonment using xampp server. 
  
 
 
