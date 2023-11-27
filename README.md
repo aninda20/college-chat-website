@@ -1,4 +1,4 @@
-# college-chat-website
+# College Chat Website
  <p align="center">
   <a href="" rel="noopener">
  <img width="80" alt="readme" src="https://user-images.githubusercontent.com/53020383/144102766-50141507-366f-4372-bfc5-0865dff1727c.PNG">
