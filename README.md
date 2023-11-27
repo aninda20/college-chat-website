@@ -5,7 +5,7 @@
 </a>
 </p>
 
-<h3 align="center"> Nowchat- Easy to use college group chat app
+<h3 align="center"> Easy to use college group chat app
     <br> 
 </h3>
 
