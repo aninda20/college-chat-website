@@ -36,7 +36,7 @@
  
 
 
- ⛏️ Built With (NO FRAMEWORKS) </br> <a name = "tech_stack"></a>
+ ⛏️ Built With </br> <a name = "tech_stack"></a>
 1)HTML </br>
 2)CSS </br>
 3)Javascript </br>
