@@ -10,7 +10,7 @@
 </h3>
 
 
-<p> This project consists of a real time web based chat application designed to facilitate seamless communication using Javascript, jQuery, PHP and AJAX to deliver a highly responsive and user-friendly chat experience. The application’s front-end is meticulously crafted to provide an engaging and attractive user interface, ensuring an intuitive and enjoyable user experience. /p>
+<p> This project consists of a real time web based chat application designed to facilitate seamless communication using Javascript, jQuery, PHP and AJAX to deliver a highly responsive and user-friendly chat experience. The application’s front-end is meticulously crafted to provide an engaging and attractive user interface, ensuring an intuitive and enjoyable user experience. </p>
 
 
 
