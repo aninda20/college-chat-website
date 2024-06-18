@@ -10,7 +10,7 @@
 </h3>
 
 
-<p>If you’re searching for a simple chat app to meet people, from your college, our chat is for you! Here, nothing is impossible — find new friends, share images, have fun and of course discuss your working projects. With this chat application, you can meet thousands of people. The Chat app concept is designed with simplicity in mind. Anyone willing to get acquainted and communicate can install it for free and use without limits.</p>
+<p>If you’re searching for a simple chat app to meet people, from your college, our chat is for you! Here, nothing is impossible — find new friends and have fun and of course discuss your working projects. With this chat application, you can meet thousands of people. The Chat app concept is designed with simplicity in mind. Anyone willing to get acquainted and communicate can install it for free and use without limits.</p>
 
 
 
