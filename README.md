@@ -10,7 +10,7 @@
 </h3>
 
 
-<p>If you’re searching for a simple chat app to meet people, from your college, our chat is for you! Here, nothing is impossible — find new friends and have fun and of course discuss your working projects. With this chat application, you can meet thousands of people. The Chat app concept is designed with simplicity in mind. Anyone willing to get acquainted and communicate can install it for free and use without limits.</p>
+<p> This project consists of a real time web based chat application designed to facilitate seamless communication using Javascript, jQuery, PHP and AJAX to deliver a highly responsive and user-friendly chat experience. The application’s front-end is meticulously crafted to provide an engaging and attractive user interface, ensuring an intuitive and enjoyable user experience. /p>
 
 
 
@@ -30,7 +30,8 @@
  🏁 Getting Started <a name = "getting_started"></a>
 
 - "git clone https://github.com/aninda20/college-chat-website.git"
-- You can run it in your local envireonment using xampp server. 
+- You can run it in your local envireonment using xampp server.
+- Mac users can use MAMP for a better experience.
  
 
 
