@@ -29,7 +29,7 @@
 
  🏁 Getting Started <a name = "getting_started"></a>
 
-- '''bash
+- '''
 -     git clone https://github.com/aninda20/college-chat-website.git
      
 - You can run it in your local envireonment using xampp server.
